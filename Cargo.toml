@@ -1,5 +1,5 @@
 [package]
-name = "twitter"
+name = "tuto_twitter"
 version = "0.1.0"
 edition = "2018"
 
